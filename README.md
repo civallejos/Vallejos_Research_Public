@@ -36,9 +36,12 @@ Key references used in this research include:
 
 For questions, feedback, or collaborations, feel free to reach out via GitHub or email at vallejos@psu.edu.
 
-Cristobal Vallejos
+Cristobal Vallejos 
+
 PhD (c) in Physics 
+
 The Pennsylvania State University
+
 https://science.psu.edu/physics/people/CIV5104
 
 ---
